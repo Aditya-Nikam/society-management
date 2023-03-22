@@ -10,8 +10,8 @@ body{
 .navbar{
     display: flex;
     align-items: center;
-    padding: 10px;
-    background-color: #0a0c0cd5;
+    padding: 20px;
+    background-color: #000000;
 }
 nav{
     flex: 1;
@@ -248,7 +248,7 @@ border: none;
 background: #ff523b;
 block-size: 3px;
 margin-block-start: 8px;
-transform: translateX(100px);
+transform: translateX(1000px);
 transition: transform 1s;
 }
 
